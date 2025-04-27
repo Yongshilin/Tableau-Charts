@@ -10,6 +10,8 @@ Part2:
 https://youtu.be/1xwoMoDH-dI?si=cxNLi09z0cRenJyx
 
 
+
+
 References:
 1. Kaggle Dataset - Ford, P. "Global EV Sales (2010–2024)." : https://www.kaggle.com/datasets/patricklford/global-ev-sales-2010-2024 . 
 2. Our World in Data - "Electric Car Sales." : https://ourworldindata.org/electric-car-sales. 
